@@ -1,0 +1,32 @@
+.car-card {
+    margin-bottom: 30px;
+}
+
+.card-top-container {
+    text-align: center;
+    padding-top: 14px;
+}
+
+.card-top-container img {
+    width: 221px;
+    height: 165px;
+}
+
+.card-bottom-container {
+    padding: 0 20px 15px 20px;
+}
+
+.card-bottom-container h1 {
+    font-size: 18px;
+    color: #000000;
+}
+
+.card-bottom-container-text h6 {
+    width: 307px;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    margin-top: 14px;
+    margin-bottom: 38px;
+}
