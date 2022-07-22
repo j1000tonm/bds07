@@ -1,0 +1,23 @@
+.search-card {
+  display: flex;
+  justify-content: center;
+  height: 123px;
+}
+
+.searc-btn {
+  margin-top: 42px;
+}
+
+@media (min-width: 1200px) {
+  .search-card {
+    margin-left: 10px;
+    width: calc(102vh);
+  }  
+}
+
+@media (min-width: 1400px) {
+  .search-card {
+    margin-left: 10px;
+    width: calc(113vh);
+  }  
+}

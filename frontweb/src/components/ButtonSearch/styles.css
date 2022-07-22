@@ -1,0 +1,38 @@
+.btn-search {
+  width: 200px;
+  height: 40px;
+  background: #FFFFFF;
+  border-radius: 5px 0px 0px 5px;
+}
+
+.btn-search h6 {
+  color: #A7A7A7;
+  font-weight: 400;
+  text-align: left;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.btn-icon-container {
+  width: 77px;
+  height: 40px;
+  border-radius: 0px 5px 5px 0px;
+}
+
+@media (min-width: 576px) {
+  .btn-search {
+    width: 320px;
+  }  
+}
+
+@media (min-width: 768px) {
+  .btn-search {
+    width: 516px;
+  }  
+}
+
+@media (min-width: 576px) {
+  .btn-icon-container {
+    width: 174px;
+  }  
+}

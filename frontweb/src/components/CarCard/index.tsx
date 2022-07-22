@@ -1,7 +1,7 @@
 import './styles.css';
 
 import CarCardImg from 'assets/images/carcard.png';
-import ButtonIcon from 'components/ButtonIcon';
+import ButtonBuy from 'components/ButtonBuy';
 
 const CarCard = () => {
   return (
@@ -17,7 +17,9 @@ const CarCard = () => {
             Cupiditate, nisi
           </h6>
         </div>
-        <ButtonIcon />
+        <div>
+          <ButtonBuy />
+        </div>
       </div>
     </div>
   );

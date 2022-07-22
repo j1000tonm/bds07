@@ -23,7 +23,7 @@ const Navbar = () => {
         </button>
 
         <div className="collapse navbar-collapse" id="carrostop-navbar">
-          <ul className="navbar-nav offset-md-2 main-menu">
+          <ul className="navbar-nav offset-md-8 main-menu">
             <li>
               <NavLink to="/" activeClassName="active" exact>
                 HOME

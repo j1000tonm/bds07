@@ -9,9 +9,9 @@
 
 .main-menu {
     display: flex;
+    justify-content: space-between;
     font-size: 18px;
     width: 170px;
-    justify-content: space-between;
 }
 
 .main-menu a {

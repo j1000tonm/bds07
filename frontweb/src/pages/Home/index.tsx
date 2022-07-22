@@ -20,9 +20,11 @@ const Home = () => {
       </div>
       <div className="home-card2">
         <div className="home-card2-content-container">
-          <Link to="/catalogs">
-            <ButtonIcon />
-          </Link>
+          <div>
+            <Link to="/catalogs">
+              <ButtonIcon />
+            </Link>
+          </div>
           <p>Comece agora a navegar</p>
         </div>
       </div>

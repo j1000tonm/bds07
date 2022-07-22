@@ -1,9 +1,5 @@
-.btn-container {
-  display: flex;
-}
-
 .btn-icon {
-  width: 174px;
+  width: 357.31px;
   height: 40px;
 }
 
@@ -14,5 +10,6 @@
 }
 
 .btn-container button {
+  width: 100%;
   height: 100%;
 }
